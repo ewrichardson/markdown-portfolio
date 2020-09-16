@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# Eric
+## Bio
+### Hometown: Philly
+### Favorite Hobby: Drumming
+### Favorite Sport: Football
