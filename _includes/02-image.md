@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Spaceman Spiff](https://i.redd.it/gg5d7qdx5o821.jpg)
