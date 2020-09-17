@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+[Eric Richardson on Facebook](https://www.facebook.com/ericw.richardson)
+[Eric Richardson on GitHub](https://github.com/ewrichardson)
